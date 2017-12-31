@@ -17,7 +17,7 @@
 body {
           font-family:'Open Sans', sans-serif;
     font-size:14px;
-  background-color:#9B60DB;
+  background-color:#C6851B;
 }
 
 .nav a {
@@ -81,11 +81,11 @@ section {
    background-color:#fff!important;
 }
 .color-dark {
-   background-color:#696969!important;
+   background-color:#986614!important;
 }
 
 .color-light {
-   background-color:#E9E9E9!important;
+   background-color:#DF9F35!important;
 }
 
 /*=======================================
