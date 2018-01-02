@@ -11,6 +11,10 @@
     margin-left: 25px;
 }
 
+.title{
+    margin-right: 700px;
+}
+
 .text{
     text-transform: uppercase;
 }
@@ -25,5 +29,6 @@
 }
 
 .center_logo{
-    margin-top: 64px;
+    margin-top: 48px;
+    margin-right: 700px;
 }
